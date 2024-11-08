@@ -1,8 +1,7 @@
 import Header from "@/components/Header";
 import Image from "next/image"
-import {Rye, Libre_Bodoni} from "next/font/google"
+import {Libre_Bodoni} from "next/font/google"
 
-const rye = Rye({ subsets: ['latin'], weight: '400' });
 const libreBodoni = Libre_Bodoni({ subsets: ['latin'], weight: '400' });
 
 export default function Home() {
