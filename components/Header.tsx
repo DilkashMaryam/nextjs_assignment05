@@ -1,5 +1,4 @@
 import React from 'react'
-import Image from "next/image"
 import {Rye} from "next/font/google"
 const rye = Rye({ subsets: ['latin'], weight: '400' });
 
